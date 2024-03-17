@@ -1,0 +1,3 @@
+serial_number,date,model,failure,smart_5_raw,smart_9_raw,smart_187_raw,smart_188_raw,smart_193_raw,smart_194_raw,smart_197_raw,smart_198_raw,smart_241_raw,smart_242_raw
+S300YQ4F,2018-01-02,ST4000DM000,0,0.0,22618.0,1.0,0.0,166597.0,24.0,0.0,0.0,35299496776.0,63668312419.0
+S300YQ4F,2018-01-03,ST4000DM000,0,0.0,22642.0,1.0,0.0,166597.0,23.0,0.0,0.0,35301247880.0,63841833621.0
